@@ -14,3 +14,37 @@
 
 
 <p>&nbsp;&nbsp;&nbsp;&nbsp;Cada diretório dentro deste repositório funcionará como um subrepositório que conterá seu próprio markdown com instruções de utilização. Desta forma, será mais fácil de visualizar o que eu estou estudando especificamente através da DIO e o que eu estou estudando ou criando por fora da plataforma.</p>
+
+```
+GeneralDIO
+│   README.md   
+│
+└───Java
+│   │   README.md
+│   │   projeto1
+│   │   │   README.md
+│   │   │   arquivo1.java
+│   │   │   arquivo2.java
+│   │   projeto2
+│   │   │   README.md
+│   │   │   arquivo1.java
+│   │   ...
+│   
+└───Python
+│  │   README.md
+│  │   projeto1
+│  │   │   README.md
+│  │   │   arquivo1.py
+│  │   │   arquivo2.py
+│  │   │   pacote1
+│  │   │   │   __init__.py
+│  │   │   │   arquivo1.py
+│  │   │   │   ...
+│  │   │   ...
+│  │   projeto2
+│  │   │   README.md
+│  │   │   arquivo1.py
+│  │   │   ...
+│  │   ...
+│  ...
+```
