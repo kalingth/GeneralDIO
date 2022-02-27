@@ -1,3 +1,4 @@
+package src;
 /**
  * Classe responsável realizar a abstração de uma instituição bancária.
  * 

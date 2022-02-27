@@ -1,3 +1,4 @@
+package src;
 /**
  * Classe base responsável por implementar métodos e atributos genéricos de
  * contas bancárias e assumir contratos de implementação para suas classes

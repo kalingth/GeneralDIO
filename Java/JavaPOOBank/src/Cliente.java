@@ -1,3 +1,4 @@
+package src;
 /**
  * Classe responsável pela abstração dos clientes de um banco.
  * 
