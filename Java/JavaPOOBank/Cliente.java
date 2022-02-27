@@ -5,11 +5,13 @@
  * @version 1.0
  * @course GFT Quality Assurance
  */
+import java.time.LocalDate;
+
 public class Cliente {
 
 	private String nomeCliente;
 	private String cpf;
-	private String dataNascimento;
+	private LocalDate dataNascimento;
 	private float salario;
 
 	/*
@@ -34,10 +36,9 @@ public class Cliente {
 	/*
 	 * Método responsável por retornar a data de nascimento do cliente.
 	 * 
-	 * @return String dataNascimento: Retorna a data de nascimento do cliente em
-	 * formato textual.
+	 * @return String dataNascimento: Retorna a data de nascimento do cliente.
 	 */
-	public String getNasc() {
+	public LocalDate getNasc() {
 		return this.dataNascimento;
 	}
 
@@ -59,12 +60,11 @@ public class Cliente {
 	 * 
 	 * @param String cpf: Número do CPF do cliente em formato textual.
 	 * 
-	 * @param String dataNascimento: Data de nascimento do cliente em formato
-	 * textual.
+	 * @param String dataNascimento: Data de nascimento do cliente.
 	 * 
 	 * @param float salario: Salário atual do cliente.
 	 */
-	public Cliente(String nome, String cpf, String dataNascimento, float salario) {
+	public Cliente(String nome, String cpf, LocalDate dataNascimento, float salario) {
 		this.nomeCliente = nome;
 		this.cpf = cpf;
 		this.dataNascimento = dataNascimento;
