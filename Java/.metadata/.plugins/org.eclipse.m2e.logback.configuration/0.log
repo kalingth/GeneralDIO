@@ -581,3 +581,13 @@ java.lang.IllegalArgumentException: Path must include project and resource name:
 2022-02-27 17:45:06,911 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-02-27 17:45:06,912 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\main\resources
 2022-02-27 17:45:06,913 [Worker-20: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-27 17:45:06,914 [Worker-20: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\test\resources
+2022-02-27 19:20:29,472 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2022-02-27 19:26:39,299 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-27 19:26:39,301 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\main\resources
+2022-02-27 19:26:39,305 [Worker-1: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-27 19:26:39,307 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\test\resources
+2022-02-27 19:26:41,157 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: JavaPOOBootcamp:JavaPOOBootcamp:0.0.1-SNAPSHOT @ C:\Codes\Dio\Java\JavaPOOBootcamp\pom.xml.
+2022-02-27 19:26:41,635 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-27 19:26:41,636 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\main\resources
+2022-02-27 19:26:41,639 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
