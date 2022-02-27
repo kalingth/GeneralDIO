@@ -3,8 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse,maven
 
 ### Eclipse ###
-.metadata/
-.metadata
+**/.metadata/
 bin/
 tmp/
 *.tmp
@@ -13,11 +12,9 @@ tmp/
 *~.nib
 local.properties
 .settings/
-*/.settings/
-./*/.settings/
+**/.settings/
 .loadpath
 .recommenders
-./*/.*
 
 # External tool builders
 .externalToolBuilders/
