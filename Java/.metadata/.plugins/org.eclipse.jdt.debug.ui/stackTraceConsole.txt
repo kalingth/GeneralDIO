@@ -1,0 +1,6 @@
+
+	/*
+	 * Método responsável por simular um saque em conta poupança.
+	 * 
+	 * @param float valor: Valor sacado na conta poupança.
+	 */

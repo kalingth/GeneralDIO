@@ -1,0 +1,48 @@
+package src;
+
+import lombok.Getter;
+
+/**
+ * Classe responsável realizar a abstração de uma instituição bancária.
+ * 
+ * @author Wallace Rocha Faria
+ * @version 1.0
+ * @course GFT Quality Assurance
+ */
+public class Banco {
+
+	public static float taxaReferencial = 2.f;
+	public static float taxaSelic = 10.75f;
+	private int CONTADOR_CONTAS = 1;
+	@Getter private float taxaJuros;
+	@Getter private String nome;
+	@Getter private int codigo;
+
+
+	/*
+	 * Método responsável por incrementar o número global das contas bancárias do
+	 * banco em específico.
+	 * 
+	 * @return int CONTADOR_CONTAS: Retorna o número único da conta do cliente.
+	 */
+	public int novaConta() {
+		return this.CONTADOR_CONTAS++;
+	}
+
+
+	/*
+	 * Método construtor da classe. Para criar um banco neste software, é necessário
+	 * informar o nome, o código da FEBRABAN e a taxa de juros da instituição.
+	 * 
+	 * @param String nome: Nome da Instituição financeira.
+	 * 
+	 * @param int codigoFebraban: Código fornecido ao banco pela FEBRABAN.
+	 * 
+	 * @param double taxaJuros: Taxa de juros aplicada pela instituição financeira.
+	 */
+	public Banco(String nome, int codigoFebraban, float taxaJuros) {
+		this.nome = nome;
+		this.codigo = codigoFebraban;
+		this.taxaJuros = taxaJuros;
+	}
+}

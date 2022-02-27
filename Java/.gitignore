@@ -1,5 +1,8 @@
-/.metadata/
-/*/.*
-/*/.*/
-/*/*.class
-.bin/
+./.metadata/
+./*/.*
+./.*/
+./*.class
+./bin/
+./*/.settings/
+./*/bin/
+./*/target/
