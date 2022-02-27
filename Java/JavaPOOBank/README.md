@@ -1,4 +1,4 @@
-<p align="center"><a href="https://www.java.com/" float="right"><img src="https://img.freepik.com/free-photo/front-view-arrangement-economy-elements_23-2148793796.jpg" width="250px"/></a></p>
+<p align="center"><a href="https://www.java.com/" float="right"><img src="https://img.freepik.com/free-photo/front-view-arrangement-economy-elements_23-2148793796.jpg" height="300px"/></a></p>
 
 # Explorando os Pilares da Orientação a Objetos com Java
 
