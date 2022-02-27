@@ -1,7 +1,7 @@
-./.metadata/
+.metadata/
 .*
 .*/
 *.class
-*/.settings/
-*/bin/
-*/target/
+.settings/
+bin/
+target/
