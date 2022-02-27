@@ -591,3 +591,4 @@ java.lang.IllegalArgumentException: Path must include project and resource name:
 2022-02-27 19:26:41,635 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
 2022-02-27 19:26:41,636 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\main\resources
 2022-02-27 19:26:41,639 [Worker-4: Building] WARN  o.e.m.c.i.embedder.EclipseLogger - Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+2022-02-27 19:26:41,640 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Codes\Dio\Java\JavaPOOBootcamp\src\test\resources

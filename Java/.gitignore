@@ -1,12 +1,14 @@
-/.metadata/
+./.metadata/
 
 
 # Bank Project Ignore
-/JavaPOOBank/bin/
-/JavaPOOBank/target/
-/JavaPOOBank/.*
+./JavaPOOBank/bin/
+./JavaPOOBank/target/
+./JavaPOOBank/.classpath
+./JavaPOOBank/.project
 
 # Bootcamp Project Ignore
-/JavaPOOBootcamp/bin/
-/JavaPOOBootcamp/target/
-/JavaPOOBootcamp/.*
+./JavaPOOBootcamp/bin/
+./JavaPOOBootcamp/target/
+./JavaPOOBootcamp/.classpath
+./JavaPOOBootcamp/.project
