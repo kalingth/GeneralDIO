@@ -12,8 +12,11 @@ tmp/
 *~.nib
 local.properties
 .settings/
+*/.settings/
+./*/.settings/
 .loadpath
 .recommenders
+./*/.*
 
 # External tool builders
 .externalToolBuilders/
