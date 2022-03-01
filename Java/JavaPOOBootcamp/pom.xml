@@ -4,6 +4,7 @@
   <artifactId>JavaPOOBootcamp</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
+    <sourceDirectory>src</sourceDirectory>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -14,4 +15,12 @@
       </plugin>
     </plugins>
   </build>
+  <dependencies>
+    <dependency>
+      <groupId>org.projectlombok</groupId>
+      <artifactId>lombok</artifactId>
+      <version>1.18.22</version>
+      <scope>provided</scope>
+    </dependency>
+  </dependencies>
 </project>
